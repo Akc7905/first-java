@@ -1,0 +1,14 @@
+public class traffic {
+    public static void main(String[]args){
+        String Light = "green";
+        if (Light=="yellow") {
+            System.out.println("when light yellow go slowly");
+
+            
+         } else if (Light=="red") {
+            System.out.println("When light Red Stop");
+          }else;
+          System.out.println(" green to bhaago"); 
+        
+    } 
+}
