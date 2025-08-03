@@ -1,0 +1,17 @@
+// if and else conditional statement
+
+class question{
+    public static void main(String[] args){
+        // if statement
+        int a=10;
+        int b=12;
+
+        if(a>b){
+            System.out.println("This is GT 650");
+
+      }       else{
+               System.out.println("this is bmw");
+    }    
+
+        }
+    }
