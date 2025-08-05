@@ -1,0 +1,20 @@
+public class dice {
+    static void main(String[]args){
+        int user =6;
+        if ( user==1) {
+            System.out.println("this is the 1");
+        } else if (user==2) {
+            System.out.println("this is the 2");
+        } else if (user==3) {
+            System.out.println("this is the 3");
+        } else if (user==4) {
+            System.out.println("this is the 4");
+        } else if (user==5) {
+            System.out.println("this is the 5");
+        } else if (user==6) {
+            System.out.println("this is the 6");
+        } else;
+        System.out.println("if number is greater than 6");
+
+    } 
+}
